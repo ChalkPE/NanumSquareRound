@@ -6,7 +6,7 @@
 
 http://hangeul.naver.com/2017/nanum
 
-나눔스퀘어라운드 웹폰트입니다. [Demo](https://htmlpreview.github.io/?https://github.com/innks/NanumSquareRound/blob/master/index.html)
+나눔스퀘어라운드 웹폰트입니다. [Demo](https://htmlpreview.github.io/?https://github.com/ChalkPE/NanumSquareRound/blob/master/index.html)
 
 ## font-weigh
 Regular(400), Bold(700), Extra Bold(800), Light(300) 지원됩니다.
@@ -25,25 +25,25 @@ import 'typeface-nanum-square-round'
 link 방식
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/ChalkPE/NanumSquareRound/nanumsquareround.min.css">
 ```
 
 import 방식
 
 ```css
-@import url('https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css');
+@import url('https://cdn.jsdelivr.net/gh/ChalkPE/NanumSquareRound/nanumsquareround.min.css');
 ```
 
 #### # 일반
-https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css
+https://cdn.jsdelivr.net/gh/ChalkPE/NanumSquareRound/nanumsquareround.css
 
 #### # 최소 버전
-https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.min.css
+https://cdn.jsdelivr.net/gh/ChalkPE/NanumSquareRound/nanumsquareround.min.css
 
 ### css 적용방법
 
 ```css
-font-family: 'NanumSquareRound',sans-serif;
+font-family: 'NanumSquareRound', sans-serif;
 ```
 
 https://innks.github.io/2017/12/23/IT/NanumSquareRound-Web-Fonts/
